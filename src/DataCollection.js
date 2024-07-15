@@ -1,4 +1,4 @@
-// src/components/DataCollection.js
+// src/DataCollection.js
 
 import React, { useState } from 'react';
 import DatePicker from 'react-datepicker';
