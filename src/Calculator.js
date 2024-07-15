@@ -1,4 +1,4 @@
-// src/components/Calculator.js
+// src/Calculator.js
 
 import React, { useState } from 'react';
 import './Calculator.css';
