@@ -1,0 +1,19 @@
+/* src/DataCollection.css */
+
+.data-collection {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.date-picker {
+    margin: 20px auto;
+    padding: 10px;
+    font-size: 1.2em;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+p {
+    font-size: 1.2em;
+    margin-top: 10px;
+}

@@ -1,0 +1,18 @@
+/* src/Graphing.css */
+
+.graphing {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.graph-container {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+canvas {
+    display: block;
+    width: 100%;
+    height: auto;
+}

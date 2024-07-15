@@ -1,0 +1,154 @@
+body{
+    background-color: rgb(113, 146, 146);
+}
+.counter-text{
+    width: 80px;
+    height: 50px;
+    background-color: navy;
+    color: yellow;
+    padding: 25px;
+    font: 40px 'poppins';
+    font-weight: bold;
+    text-align: center;
+
+}
+.btn{
+    width: 50px;
+    height: 45px;
+    color: white;
+    font: 25px 'poppins';
+    font-weight: bold;
+    text-align: center;
+    border: 0px solid #04f091;
+    border-radius: 10px;
+    margin-right: 5px;
+
+}
+.btnIncrement{
+    background-color: blueviolet;
+}
+.btnDeccrement{
+    background-color: yellow;
+    
+}
+.reset{
+    display: block;
+    margin-top: 10px;
+    width: 110px;
+    background-color: red;
+}
+
+.login{
+    margin: auto;
+    display: block;
+    width: 20%;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    background-color: #000000;
+    color: #f5f5f8;
+    border: 2px solid #800000;
+    padding: 30px;
+    padding-right: 20px;
+    border-radius: 20px;
+
+}
+.login input {
+    width: 100%;
+    margin-right: 20px;
+    padding: 5px;
+    display: block;
+    margin-left: 20;
+
+}
+.box{
+    width: 800px;
+    padding: 10px;
+    background-color: #f5f5f8;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.user_info{
+    height: 50px;
+    
+    
+}
+.user-phot{
+    width: 50px;
+    float: left;
+    
+}
+.user-phot img{
+    border-radius: 50px;
+}
+.user_name-date span{
+    margin-left: 10px;
+
+}
+.FullName{
+    font:  17px 'Poppins';
+    color: blue;
+    font-weight: bold;
+}
+.PostDate{
+    font:  13px 'Poppins';
+    color: blueviolet;
+    
+}
+.contect p{
+    font:  15px 'Poppins';
+    color: black;
+    text-align: justify;
+}
+.card {
+
+    background-color: #5cf30b; /* Lighter background color */
+     margin: 12px;
+    text-align: center;
+    border-radius: 12px;
+    padding: 12px;
+    box-shadow: 4px 8px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    max-width: 250px;
+    transition: box-shadow 0.3s ease-in-out;
+ }
+ 
+ &:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+ }
+.img{
+    border-radius: 20px;
+}
+.card1{
+    display: block;
+    background-color: #18ef0d; /* Lighter background color */
+    margin: 12px;
+   text-align: center;
+   border-radius: 12px;
+   padding: 12px;
+   box-shadow: 4px 8px rgba(0, 0, 0, 0.1);
+
+
+   display: inline-block;
+   max-width: 250px;
+   transition: box-shadow 0.3s ease-in-out;
+}
+.imge{
+    border-radius: 20px;
+}
+.card2{
+    display: block;
+    background-color: #0bed25; /* Lighter background color */
+    margin: 12px;
+   text-align: center;
+   border-radius: 12px;
+   padding: 12px;
+   box-shadow: 4px 8px rgba(0, 0, 0, 0.1);
+   display: inline-block;
+   max-width: 250px;
+   transition: box-shadow 0.3s ease-in-out;
+
+}
