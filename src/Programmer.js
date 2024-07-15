@@ -1,4 +1,4 @@
-// src/components/Programmer.js
+// src/Programmer.js
 
 import React from 'react';
 import images from './images/1.jpeg'
